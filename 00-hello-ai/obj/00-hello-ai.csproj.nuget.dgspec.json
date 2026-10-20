@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "/mnt/d/1- Shahzaib/AI/AI Projects/agentic-ai-dotnet/00-hello-ai/00-hello-ai.csproj": {}
+  },
+  "projects": {
+    "/mnt/d/1- Shahzaib/AI/AI Projects/agentic-ai-dotnet/00-hello-ai/00-hello-ai.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/d/1- Shahzaib/AI/AI Projects/agentic-ai-dotnet/00-hello-ai/00-hello-ai.csproj",
+        "projectName": "00-hello-ai",
+        "projectPath": "/mnt/d/1- Shahzaib/AI/AI Projects/agentic-ai-dotnet/00-hello-ai/00-hello-ai.csproj",
+        "packagesPath": "/home/shahzaib/.nuget/packages/",
+        "outputPath": "/mnt/d/1- Shahzaib/AI/AI Projects/agentic-ai-dotnet/00-hello-ai/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/mnt/d/1- Shahzaib/nuget.config",
+          "/home/shahzaib/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.AI.OpenAI": {
+              "target": "Package",
+              "version": "[10.11.0, )"
+            },
+            "Microsoft.Extensions.Configuration.UserSecrets": {
+              "target": "Package",
+              "version": "[10.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.419/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

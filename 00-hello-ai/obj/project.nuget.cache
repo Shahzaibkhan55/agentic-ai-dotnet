@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "w3SyJPbmmyw=",
+  "success": true,
+  "projectFilePath": "/mnt/d/1- Shahzaib/AI/AI Projects/agentic-ai-dotnet/00-hello-ai/00-hello-ai.csproj",
+  "expectedPackageFiles": [
+    "/home/shahzaib/.nuget/packages/microsoft.extensions.ai.abstractions/10.11.0/microsoft.extensions.ai.abstractions.10.11.0.nupkg.sha512",
+    "/home/shahzaib/.nuget/packages/microsoft.extensions.ai.openai/10.11.0/microsoft.extensions.ai.openai.10.11.0.nupkg.sha512",
+    "/home/shahzaib/.nuget/packages/microsoft.extensions.configuration/10.0.13/microsoft.extensions.configuration.10.0.13.nupkg.sha512",
+    "/home/shahzaib/.nuget/packages/microsoft.extensions.configuration.abstractions/10.0.13/microsoft.extensions.configuration.abstractions.10.0.13.nupkg.sha512",
+    "/home/shahzaib/.nuget/packages/microsoft.extensions.configuration.fileextensions/10.0.13/microsoft.extensions.configuration.fileextensions.10.0.13.nupkg.sha512",
+    "/home/shahzaib/.nuget/packages/microsoft.extensions.configuration.json/10.0.13/microsoft.extensions.configuration.json.10.0.13.nupkg.sha512",
+    "/home/shahzaib/.nuget/packages/microsoft.extensions.configuration.usersecrets/10.0.13/microsoft.extensions.configuration.usersecrets.10.0.13.nupkg.sha512",
+    "/home/shahzaib/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.9/microsoft.extensions.dependencyinjection.abstractions.10.0.9.nupkg.sha512",
+    "/home/shahzaib/.nuget/packages/microsoft.extensions.diagnostics.abstractions/10.0.9/microsoft.extensions.diagnostics.abstractions.10.0.9.nupkg.sha512",
+    "/home/shahzaib/.nuget/packages/microsoft.extensions.fileproviders.abstractions/10.0.13/microsoft.extensions.fileproviders.abstractions.10.0.13.nupkg.sha512",
+    "/home/shahzaib/.nuget/packages/microsoft.extensions.fileproviders.physical/10.0.13/microsoft.extensions.fileproviders.physical.10.0.13.nupkg.sha512",
+    "/home/shahzaib/.nuget/packages/microsoft.extensions.filesystemglobbing/10.0.13/microsoft.extensions.filesystemglobbing.10.0.13.nupkg.sha512",
+    "/home/shahzaib/.nuget/packages/microsoft.extensions.hosting.abstractions/10.0.9/microsoft.extensions.hosting.abstractions.10.0.9.nupkg.sha512",
+    "/home/shahzaib/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.9/microsoft.extensions.logging.abstractions.10.0.9.nupkg.sha512",
+    "/home/shahzaib/.nuget/packages/microsoft.extensions.options/10.0.9/microsoft.extensions.options.10.0.9.nupkg.sha512",
+    "/home/shahzaib/.nuget/packages/microsoft.extensions.primitives/10.0.13/microsoft.extensions.primitives.10.0.13.nupkg.sha512",
+    "/home/shahzaib/.nuget/packages/openai/2.14.0/openai.2.14.0.nupkg.sha512",
+    "/home/shahzaib/.nuget/packages/system.clientmodel/1.15.0/system.clientmodel.1.15.0.nupkg.sha512",
+    "/home/shahzaib/.nuget/packages/system.diagnostics.diagnosticsource/10.0.11/system.diagnostics.diagnosticsource.10.0.11.nupkg.sha512",
+    "/home/shahzaib/.nuget/packages/system.io.pipelines/10.0.13/system.io.pipelines.10.0.13.nupkg.sha512",
+    "/home/shahzaib/.nuget/packages/system.memory.data/10.0.9/system.memory.data.10.0.9.nupkg.sha512",
+    "/home/shahzaib/.nuget/packages/system.net.serversentevents/10.0.11/system.net.serversentevents.10.0.11.nupkg.sha512",
+    "/home/shahzaib/.nuget/packages/system.text.encodings.web/10.0.13/system.text.encodings.web.10.0.13.nupkg.sha512",
+    "/home/shahzaib/.nuget/packages/system.text.json/10.0.13/system.text.json.10.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
